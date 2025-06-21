@@ -82,7 +82,7 @@ body {
     display: flex;
     justify-content: space-around;
     align-items: center;
-    padding: 25px;
+    padding: 20px;
     background-color: #e4e1e1;
     border-top: 1px solid #ddd;
 }
