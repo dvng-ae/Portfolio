@@ -1,0 +1,52 @@
+.bar{
+    padding: 20px;
+    display: flex;
+    justify-content:flex-end;
+    background-color: #e4e1e1;
+}
+.bar a{
+    margin-left: 35px;
+    text-decoration: none;
+    font-size: 18px;
+    color: black;
+}
+.note{
+    font-size: 25px;
+    padding: 20px;
+    vertical-align: top;
+    padding: 80px 20px 30px 0px;;
+}
+table{
+    border: 2px solid;
+    height:70vh;
+}
+
+.footer {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 25px;
+    background-color: #e4e1e1;
+    border-top: 1px solid #ddd;
+}
+
+.footer-item {
+    text-align: center;
+}
+
+.footer-item p {
+    margin: 5px 0;
+    font-size: 14px;
+    color: #333;
+}
+
+.footer-item a {
+    text-decoration: none;
+    color: #0073e6;
+    font-weight: bold;
+    cursor: pointer;
+}
+.follow{
+    width: 40px;
+    height: 40px;
+}
